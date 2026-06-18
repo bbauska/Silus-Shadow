@@ -1,6 +1,9 @@
 {
- "name": "Silus Shadow",
- "icons": [
+  "name": "Silus Shadow",
+  "short_name": "Shadow", 
+  "start_url": "shadow.bauska.org",
+  "display": "standalone", 
+  "icons": [
   {
    "src": "\/images/android-icon-36x36.png",
    "sizes": "36x36",
